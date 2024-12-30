@@ -32,6 +32,8 @@ flowchart TD
 
 - **AWS Glue**
   - Serviço de ETL (Extração, Transformação e Carga) que facilita a preparação e o carregamento de dados para análise.
+   - Criação de um Crawler para catalogar o schema dos dados. 
+   - Criação de um Database. 
 
 ## Tecnologias Utilizadas
 
